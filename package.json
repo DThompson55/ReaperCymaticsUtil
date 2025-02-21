@@ -1,0 +1,11 @@
+{
+  "name": "cymatics",
+  "version": "1.0.0",
+  "description": "Cymatics indexer for Reaper",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "DThompson55",
+  "license": "ISC"
+}
